@@ -44,7 +44,7 @@ Antes de comenzar con el despliegue, asegúrate de tener lo siguiente instalado 
   
   <img width="1045" alt="Screenshot 2024-04-09 at 11 05 51 PM" src="https://github.com/juanosorio0219/jjo_ansible/assets/80568091/61f3874d-3447-406b-ab99-c01e928153c5">
   
-- Es necesario crear una regla de salida para el puerto del contenedor que se definió, esto se hace desde el portal de Azure
+- Es necesario crear una regla de entrada para el puerto del contenedor que se definió, esto se hace desde el portal de Azure
   
   <img width="580" alt="Screenshot 2024-04-09 at 11 09 19 PM" src="https://github.com/juanosorio0219/jjo_ansible/assets/80568091/6d771686-31c8-4538-8ba0-976d076214bd">
 
